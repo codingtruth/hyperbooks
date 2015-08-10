@@ -1,0 +1,11 @@
+25	divrei_ha_yamim
+26	tehillim
+27	yov
+28	mishlei
+29	ruth
+30	shir_ha_shirim
+31	koelet
+32	eiha
+33	ester
+34	daniel
+35	ezra_nehemia
