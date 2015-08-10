@@ -26,7 +26,7 @@ BEGIN {
 
 	printf "<hr>"
 
-		print "<p id=notice_bot dir=ltr style=\"text-align:justify;  font-family:Miriam;font-size:9pt\"><br>" "<a href=#notice_top  style=\"text-decoration:underline;\"><b>[*]</b></a> Free open source framework for pages download and conversion, which guarantees that original texts remain autentic and all rights are reserved to their respective owners.</p>"
+		print "<p id=notice_bot dir=ltr style=\"text-align:justify;  font-family:Miriam;font-size:9pt\"><br>" "<a href=#notice_top  style=\"text-decoration:underline;\"><b>[*]</b></a> Free open source framework for pages download and conversion, which guarantees that original texts remain authentic and all rights are reserved to their respective owners.</p>"
 
 		print "<p dir=ltr style=\"text-align:center;font-family:Miriam;font-size:9pt\"><br>" "Technical notice:<br><b>all hyperlinks within this PDF are clickable, even those which are not underlined.</b></p>"
 
@@ -37,7 +37,7 @@ BEGIN {
 		
 		print "<p id=notice_bot dir=ltr style=\"text-align:justify;font-family:Miriam;font-size:7pt\"><br>Бесплатная система c открытым исходным кодом для скачивания интернет-страниц и преобразования их в PDF, гарантирующая сохранение аутентичности оригинальных текстов и сохранение всех прав за их соответствующими правообладателями.</p>"
 
-		print "<p dir=ltr style=\"text-align:center;font-family:Miriam;font-size:7pt\"><br>" "Технические замечания:<br><b>по всем гиперссылкам в этом файле можно переходить, даже по тем, которые не подчеркнуты.</b></p>"
+		print "<p dir=ltr style=\"text-align:center;font-family:Miriam;font-size:7pt\"><br>" "Технические замечания:<br><b>по всем гиперссылкам в этом файле можно переходить, включая те, которые не подчеркнуты.</b></p>"
 		
 		print "<p id=notice_bot dir=ltr style=\"text-align:center;font-family:Miriam;font-size:7pt\">По техническим вопросам касательно скачивания и конвертации интернет страниц обращаться по адресу:<br><br><a href=mailto:codingtruth@gmail.com><b style=\"font-size:10pt\">codingtruth@gmail.com</b></a></p>"
 	html_end()

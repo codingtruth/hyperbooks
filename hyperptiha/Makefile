@@ -1,6 +1,5 @@
-HTM2PDF = ../../../utils/wkhtmltox-0.12.2.3_mingw-w64-cross-win64/bin/wkhtmltopdf
+HTM2PDF = ../../../../utils/wkhtmltox-0.12.2.3_mingw-w64-cross-win64/bin/wkhtmltopdf
 HTM2PDF_PARAMS = \
-	--encoding windows-1255 \
 	--print-media-type \
 	--page-width 46mm --page-height 92mm  \
 	--margin-top 1mm --margin-bottom 1mm --margin-left 0.25mm --margin-right 0.25mm \
@@ -8,7 +7,7 @@ HTM2PDF_PARAMS = \
 	--disable-smart-shrinking \
 	--zoom 0.90
 
-ICONV = ../../../utils/win-iconv-master/win_iconv.exe
+ICONV = ../../../../utils/win-iconv-master/win_iconv.exe
 ICONV_2WIN_PARAMS = -f utf8 -t windows-1255
 ICONV_2UTF_PARAMS = -f DETECTED_CHARSET -t utf8
 
